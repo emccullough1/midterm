@@ -2,4 +2,4 @@
 console.log('OK');
 
 // Your Awesome Scripts
-$('main').fitVids();
+$('body').fitVids();
